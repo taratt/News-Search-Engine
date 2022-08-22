@@ -4,7 +4,7 @@ Heap's and Zipf's laws are also implemented and the correctness of them are chec
 ## The Heap's Law
 The Heap's law predictions with and without stemming can be compared according to the results below.
 <p align="center">
-  <img src="figure_3.png" alt="Size Limit CLI" width="738">
+  <img src="Figure_3.png" alt="Size Limit CLI" width="738">
 </p>
 <p align="center">
   <img src="Screen Shot 2022-04-22 at 4.11.58 AM.png" alt="Size Limit CLI" width="738">
