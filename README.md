@@ -10,6 +10,7 @@ The Heap's law predictions with and without stemming can be compared according t
   <img src="Figure_3.png" alt="Size Limit CLI" width="738">
 </p>
 <br>
+
 ## The Zipf's Law
 <br>
 The Zipf's law predictions with and without considering the stopwords can be compared according to the results below.
